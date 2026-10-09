@@ -38,7 +38,7 @@ Full method and numbers: [`docs/shootout.md`](docs/shootout.md)
 **As an agent skill** (any agent that reads `SKILL.md`):
 
 ```bash
-npx skills add <this-repo>
+npx skills add slow-tempo/code-pipeline
 ```
 
 or copy `skills/code-pipeline/` into your skills directory
